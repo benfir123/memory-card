@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.a53b06d2.css",
+    "main.js": "/memory-card/static/js/main.838d4e3c.js",
+    "static/media/leafcoin.png": "/memory-card/static/media/leafcoin.c043232ec31599aeadba.png",
+    "index.html": "/memory-card/index.html",
+    "main.a53b06d2.css.map": "/memory-card/static/css/main.a53b06d2.css.map",
+    "main.838d4e3c.js.map": "/memory-card/static/js/main.838d4e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a53b06d2.css",
+    "static/js/main.838d4e3c.js"
+  ]
+}
